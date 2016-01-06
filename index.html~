@@ -239,21 +239,19 @@
          <div class="nine columns main-col">
 
             <p>
-Application Development Framework(ADF), MATLAB, Eclipse IDE, Oracle SQL Developer
+ Technologies: Application Development Framework(ADF), MATLAB, Eclipse IDE, Oracle SQL Developer
             </p>
+	<p>
+OS: Windows, Linux
+</p>
+<p>
+Skills: C, Java, SQL, Object Oriented Programming
+</p>
+<p>
+Interests: Data Structure and Algorithms, Programming, Machine Learning, Cloud Computing
+</p>
 
-				<div class="bars">
-
-				   <ul class="skills">
-					   <li><span class="bar-expand photoshop"></span><em>Photoshop</em></li>
-                  <li><span class="bar-expand illustrator"></span><em>Illustrator</em></li>
-						<li><span class="bar-expand wordpress"></span><em>Wordpress</em></li>
-						<li><span class="bar-expand css"></span><em>CSS</em></li>
-						<li><span class="bar-expand html5"></span><em>HTML5</em></li>
-                  <li><span class="bar-expand jquery"></span><em>jQuery</em></li>
-					</ul>
-
-				</div><!-- end skill-bars -->
+				
 
 			</div> <!-- main-col end -->
 
