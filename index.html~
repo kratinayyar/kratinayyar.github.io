@@ -28,7 +28,7 @@
 
    <!-- Favicons
 	================================================== -->
-	<link rel="shortcut icon" href="favicon.png" >
+	<link rel="shortcut icon" href="fev.png" >
 
 </head>
 
@@ -48,7 +48,7 @@
             <li><a class="smoothscroll" href="#about">About</a></li>
 	         <li><a class="smoothscroll" href="#resume">Resume</a></li>
             <li><a class="smoothscroll" href="#portfolio">Projects</a></li>
-            <li><a class="smoothscroll" href="#testimonials">Extra Curicullars</a></li>
+            <li><a class="smoothscroll" href="#testimonials">ExtraCurriculars</a></li>
             <li><a class="smoothscroll" href="#contact">Contact</a></li>
          </ul> <!-- end #nav -->
 
@@ -328,10 +328,34 @@ The site consisted of FlashCard game of various subjects and displayed statistic
    </section> <!-- Portfolio Section End-->
 
 
+
+  
+<div class="row extracurriculars">
+
+         <div class="three columns header-col">
+            <h1><span>Extra Curriculars</span></h1>
+         </div>
+     <p><span>Edifice Paper Presentation Contest</span>: Was awarded the first prize for presentation on the topic "Shale Gas: Game Changer of the energy sector" out of a over 70 participating teams in the competition</p>
+
+	<p><span>CBSE Merit Certificate</span>:Was awarded the CBSE Merit Certificate for being in the top 0.1% of the students in Science Scores in SSE 2008</p> 
+         <div class="nine columns main-col">
+
+   
+
+				
+
+			</div> <!-- main-col end -->
+
+      </div> <!-- End skills -->
+  
+
+   </section> <!-- Testimonials Section End-->
+
+
    <!-- Call-To-Action Section
    ================================================== -->
    
-   <section id="testimonials">
+   <section id="testimonial">
 
       <div class="text-container">
 
@@ -339,7 +363,7 @@ The site consisted of FlashCard game of various subjects and displayed statistic
 
             <div class="two columns header-col">
 
-               <h1><span>Client Testimonials</span></h1>
+               
 
             </div>
 
