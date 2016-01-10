@@ -62,7 +62,17 @@
             <hr />
             <ul class="social">
                <li><a href="https://www.linkedin.com/in/kratinayyar"><i class="fa fa-linkedin"></i></a></li>
-               <li><a href="#"><i class="fa fa-skype"></i></a></li>
+               <script type="text/javascript" src="http://www.skypeassets.com/i/scom/js/skype-uri.js"></script>
+<div id="SkypeButton_Call_kratinayyar_1">
+ <script type="text/javascript">
+ Skype.ui({
+ "name": "dropdown",
+ "element": "SkypeButton_Call_kratinayyar_1",
+ "participants": ["kratinayyar"],
+ "imageSize": 16
+ });
+ </script>
+</div>
             </ul>
          </div>
       </div>
@@ -193,13 +203,13 @@
                   <h3>Oracle IDC</h3>
                   <p class="info">Applications Engineer<span>&bull;</span> <em class="date">Jun 2014 - Jul 2015</em></p>
 
-                  <p>
-                  Designed and developed SOAP Based Web Services for Fusion Financial Applications;
-			Implemented complex Application Integration Solutions using Web Services and ADF;
-			Designed and developed User Interface using ADF UI components;
-			Worked on run- time customization of Fusion Applications which included UI Customizations along with Customization in Model Layer;
-			Designed the infrastructure for the project ‘Attachment Service’ which included designing web service to transfer large binary files across applications.
-                  </p>
+                  <ul style="list-style-type:disc">
+                  <li>Designed and developed SOAP Based Web Services for Fusion Financial Applications</li>
+			<li>Implemented complex Application Integration Solutions using Web Services and ADF</li>
+			<li>Designed and developed User Interface using ADF UI components</li>
+			<li>Worked on run- time customization of Fusion Applications which included UI Customizations along with Customization in Model Layer</li>
+			<li>Designed the infrastructure for the project ‘Attachment Service’ which included designing web service to transfer large binary files across applications</li>
+                  </ul>
 
                </div>
 
@@ -212,12 +222,12 @@
                   <h3>Virginia Polytechnic Institute and State University</h3>
                   <p class="info">Graduate Teaching Assistant<span>&bull;</span> <em class="date">August 2015 - Present</em></p>
 
-                  <p>
-                  Mentoring 60 sophomore students in the subject ‘Introduction to Computer Engineering’
-		Reinforce and follow up learning activity by keeping track of assignments
-		In charge of Computer Engineering lab(CEL) for undergraduate students for the course
+                 <ul style="list-style-type:disc">
+                 <li>Mentoring 60 sophomore students in the subject ‘Introduction to Computer Engineering’</li>
+		<li>Reinforce and follow up learning activity by keeping track of assignments</li>
+		<li>In charge of Computer Engineering lab(CEL) for undergraduate students for the course</li>
                   
-                  </p>
+                  </ul>
 
                </div>
 
@@ -347,8 +357,8 @@ The site consisted of FlashCard game of various subjects and displayed statistic
 
                   <h4>Publications</h4>
 			<ul style="list-style-type:disc">
-			<li>“PMU Signal Prioritization for Effective Control Coordination of Load Despatch Centres” : IEEE PES General Meeting held in Washington, ISBN 978-1-4799-6415-4/14 : 2014</li>
-			<li>Publication in ICRTES’13, Conference proceeding by Elsevier Science & Technology: 2013</li>
+			<li>“PMU Signal Prioritization for Effective Control Coordination of Load Despatch Centres” :<b> IEEE PES General Meeting</b> held in Washington, ISBN 978-1-4799-6415-4/14 : 2014</li>
+			<li>Publication in <b>ICRTES’13</b>, Conference proceeding by Elsevier Science & Technology: 2013</li>
 			</ul>
 
                   <h4>Academic</h4>
@@ -389,23 +399,26 @@ The site consisted of FlashCard game of various subjects and displayed statistic
          </div>
 
          <div class="nine columns main-col">
+	
+	<h4>Core Team, Prastuti 2013</h4>
+		<ul style="list-style-type:disc">
+		 <li>Prastuti is the Annual Departmental Fest, Electrical Engineering of IIT, BHU</li>
+		 <li>Pioneered case study competition Adhyayan which saw 150 participants from 30 colleges</li>
+		<li> Planned and executed logistics and hospitality for the event for 3 days; 800+ participants</li>
+		</ul>
 
+	 <h4>Cultural Events</h4>
+		<ul style="list-style-type:disc">
+		 <li>Handpicked among 110 students for freestyle dance performance for 1250+ audience: 2011</li>
+		 <li>Part of College VolleyBall team for two years : 2010-11</li>
+		</ul>
 
 	 <h4>Social Work</h4>
 		<ul style="list-style-type:disc">
-		 <li>Winner, among 40 teams in Edifice-2012 paper presentation competition by Emerson: 2012</li>
+		 <li>Volunteered in Project by Oracle “Fruits distribution to Cancer patients- INDO AMERICAN Cancer Hospital" : 2014</li>
 		 <li>Volunteered in Project by Oracle “Musical Evening with Shekinah Foundation Children”: 2014</li>
 		</ul>
-         <ul style="list-style-type:disc">
-	  
-	 
-	  
-	<li>Handpicked among 110 students for freestyle dance performance for 1250+ audience: 2011</li>
-	
-	
-	
-	</ul>  
-
+        
 				
 
 			</div> <!-- main-col end -->
@@ -494,7 +507,7 @@ The site consisted of FlashCard game of various subjects and displayed statistic
             <div class="eight columns">
 
                <!-- form -->
-               <form action="" method="post" id="contactForm" name="contactForm">
+               <!--form action="" method="post" id="contactForm" name="contactForm">
 					<fieldset>
 
                   <div>
@@ -528,13 +541,13 @@ The site consisted of FlashCard game of various subjects and displayed statistic
 				   </form> <!-- Form End -->
 
                <!-- contact-warning -->
-               <div id="message-warning"> Error boy</div>
+               <!--div id="message-warning"> Error boy</div>
                <!-- contact-success -->
-				   <div id="message-success">
+				   <!--div id="message-success">
                   <i class="fa fa-check"></i>Your message was sent, thank you!<br>
 				   </div>
 
-            </div>
+            </div-->
 
 
             <aside class="four columns footer-widgets">
@@ -556,7 +569,7 @@ The site consisted of FlashCard game of various subjects and displayed statistic
 
       </div>
 
-   </section> <!-- Contact Section End-->
+   </section--> <!-- Contact Section End-->
 
 
    <!-- footer
@@ -569,7 +582,7 @@ The site consisted of FlashCard game of various subjects and displayed statistic
 
             <ul class="social-links">
               
-               <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+               <li><a href="https://www.linkedin.com/in/kratinayyar"><i class="fa fa-linkedin"></i></a></li>
                <li><a href="#"><i class="fa fa-skype"></i></a></li>
             </ul>
 
